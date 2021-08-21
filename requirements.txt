@@ -61,7 +61,6 @@ pycparser==2.20
 pyjsparser==2.7.1
 PyJWT==2.1.0
 pyparsing==2.4.7
-pypiwin32==223
 PyPrind==2.11.3
 pypugjs==5.9.9
 pySmartDL==1.3.4
