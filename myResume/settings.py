@@ -1,7 +1,7 @@
 import os
 import django_heroku
 import dj_database_url 
-from python_decouple import config
+from python-decouple import config
 from pathlib import Path
 
 
